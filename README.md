@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mark Morgan
+- 👋 Hi, I’m Morgan
 - 👀 I’m interested in R&D
-- 🌱 I’m currently learning LInux Server configuration
-- 💞️ I’m looking to collaborate on PHP, Python, Node JS and, .NET
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on PHP, Python, Android Studio, Node JS, React JS & Native, and, .NET(VB, C#)
 - 📫 How to reach me? just drop a message here
 
 <!---
